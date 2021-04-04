@@ -1,0 +1,13 @@
+#python 3.6
+
+n=int(input())
+while(n>0):
+    k1,k2,k3,v=map(float,input().split(' '))
+    answer=k1*k2*k3*v
+    .
+    .
+    .
+    .
+    .
+....................#if you understand the code then go on, otherwise mail me 
+#mail: noobprogrammergithub@gmail.com
