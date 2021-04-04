@@ -1,0 +1,24 @@
+#c++14
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int t;
+    cin>>t;
+    while(t--){
+        int n;
+        int k;
+        cin>>n;
+        cin>>k;
+        string s;
+        cin>>s;
+        int count=0;
+        int flag=0;
+        for(int i=0;i<n;i++)
+        {
+        .
+        .
+        ..
+        .
+        #this is the half solution. mail me if you want full code.
+        #mail: noobprogrammergithub@gmail.com. this is a "paid one"
